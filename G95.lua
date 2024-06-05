@@ -3,8 +3,8 @@ local achievementGiver = loadstring(game:HttpGet("https://raw.githubusercontent.
 
 ---====== Display achievement ======---
 achievementGiver({
-    Title = "Fragmented Death G-95",
-    Desc = "Insane Smiler of Death",
-    Reason = "Survive the Insane G-95",
+    Title = "Scary smile of You",
+    Desc = "Don't be slow",
+    Reason = "Survive the G-95",
     Image = "rbxassetid://3457898957"
 })
